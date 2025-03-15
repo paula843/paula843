@@ -1,21 +1,20 @@
 <h1 align="center">Paula do Prado Brito</h1>
 <h2 align="center">Software Engineer</h2>
 
-![visitas](https://img.shields.io/badge/visitas-123-blue?style=for-the-badge&logo=github&logoColor=white&color=3498db&labelColor=ffffff&url=https://api.exemplo.com/contador)
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/delucas027&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
 
-  
-### 🎓 Currently studying Software Analysis and Development at [UNICESUMAR](https://www.unicesumar.edu.br/)
+### 🎓 Currently studying Software Engineer at [UNICESUMAR](https://www.unicesumar.edu.br/)
 ---
 
 ### **📌 About Me**  
-I am a results-driven professional with a focus on continuous growth through practical and collaborative projects.  
-I began my career in the computer networks field as a support technician, progressed to a junior network analyst, and eventually transitioned into development, leveraging my background in networks.
+Hello! I am a technology enthusiast and a Software Engineering student, passionate about data, continuous learning, and smart solutions. 
+I am looking for opportunities to apply and enhance my skills, focusing on Data Science and Data Analysis.
 
 ---
 
 ### **💡 Tools & Technologies**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
