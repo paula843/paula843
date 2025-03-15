@@ -1,7 +1,7 @@
 <h1 align="center">Paula do Prado Brito</h1>
 <h2 align="center">Software Engineer</h2>
 
-![visitas](https://visitor-badge.glitch.me/badge?page_id=seu-usuario.seu-repositorio)
+![visitas](https://img.shields.io/badge/visitas-123-blue?style=for-the-badge&logo=github&logoColor=white&color=3498db&labelColor=ffffff&url=https://api.exemplo.com/contador)
 
 
   
