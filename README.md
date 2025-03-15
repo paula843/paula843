@@ -1,7 +1,8 @@
 <h1 align="center">Paula do Prado Brito</h1>
 <h2 align="center">Software Engineer</h2>
 
-![visitas](https://img.shields.io/badge/visitas-123-blue?style=flat&logo=github&logoColor=white&color=3498db&labelColor=ffffff&round=round)
+![visitas](https://visitor-badge.glitch.me/badge?page_id=seu-usuario.seu-repositorio)
+
 
   
 ### 🎓 Currently studying Software Analysis and Development at [UNICESUMAR](https://www.unicesumar.edu.br/)
