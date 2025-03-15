@@ -31,4 +31,4 @@ I am looking for opportunities to apply and enhance my skills, focusing on Data 
 ---
 
 ### 📫 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delucas027)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paullabritto)
