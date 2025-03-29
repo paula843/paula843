@@ -1,7 +1,6 @@
 <h1 align="center">Paula do Prado Brito</h1>
 <h2 align="center">Software Engineer</h2>
 
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/delucas027&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
 
 ### 🎓 Currently studying Software Engineer at [UNICESUMAR](https://www.unicesumar.edu.br/)
