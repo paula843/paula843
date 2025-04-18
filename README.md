@@ -1,4 +1,7 @@
-<h1 align="center">Paula do Prado Brito</h1>
+<p align="center">
+  <img src="https://link-do-seu-gif.com/paula-animado.gif" alt="Paula do Prado Brito" />
+</p>
+
 <h2 align="center">Software Engineer</h2>
 
 
